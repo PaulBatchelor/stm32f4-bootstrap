@@ -1,0 +1,2 @@
+ROOT=arm-toolchain
+TARGET=arm-none-eabi

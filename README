@@ -1,0 +1,15 @@
+Build a cross-compiler from source.
+Steps taken from:
+
+https://istarc.wordpress.com/2014/07/21/stm32f4-build-your-toolchain-from-scratch/
+
+
+More or less, run the shell scripts in this order:
+
+01_mkdir.sh
+02_download.sh
+03_extract.sh
+04_build_binutils.sh
+05_build_gcc.sh
+06_build_newlib.sh
+07_build_gcc_again.sh
