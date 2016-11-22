@@ -13,3 +13,4 @@ More or less, run the shell scripts in this order:
 05_build_gcc.sh
 06_build_newlib.sh
 07_build_gcc_again.sh
+08_build_gdb.sh

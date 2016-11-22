@@ -14,7 +14,7 @@ cd $ROOT/build/gcc-4.9.1
  --with-mode=thumb \
  --enable-interwork \
  --enable-multilib \
- --enable-languages="c" \
+ --enable-languages="c,c++" \
  --with-system-zlib \
  --with-newlib \
  --disable-shared \

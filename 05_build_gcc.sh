@@ -25,3 +25,5 @@ make clean
 
 make -j4 all-gcc
 make install-gcc
+
+cd -
